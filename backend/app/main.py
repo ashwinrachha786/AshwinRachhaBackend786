@@ -23,8 +23,8 @@ origins = [
     "https://ashwinrachha.onrender.com",
     "http://localhost:8000",
     "http://localhost:3000",
-    "http://127.0.0.1:8000",
-    "http://127.0.0.1:3000",
+    "http://0.0.0.0:8000",
+    "http://0.0.0.0:3000",
 ]
 
 app.add_middleware(
@@ -51,4 +51,4 @@ async def query(user_query: UserQuery):
     return {"response" : response["result"]}
 
 if __name__ == "__main__":
-    uvicorn.run(app, host = "127.0.0.1", port = 8000)
+    uvicorn.run(app, host = "0.0.0.0", port = 8000)
