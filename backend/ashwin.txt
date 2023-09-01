@@ -1,0 +1,389 @@
+About me:
+
+I am a Master's student majoring in Computer Science at Virginia Tech. I have a passion for building, scaling, maintaining and perusing about intelligent systems that have sprung from the fields of Machine Learning, Natural Language Processing and principles of Software Engineering with their presence in real-world settings. 
+
+My most recent experience was a wonderful internship experience at Outreach Corporation where I was responsible for building a template engine project that could ease the process of Deploying NLP based models online for Data Scientists and Machine Learning Engineers. During this experience I learned how to build and configure a complex Inference Service Solution (NVIDIA Triton Inference Server) for deploying Model Binaries for BERT, ROBERTA and DistilBERT in their ONNX flavor. I also wrote a Golang Based Microservice which would be used to communicate with the configured server and would server prediction results in real-time. Finally to test the working of the project I wrote tests in CircleCI configs and dockerized the inference solution as well as the microservice into a container and deployed it online via Kubernetes manifests. Being in a close knit environment with great leaders and programmers was the best highlight of my internship. This experience evolved my thinking about designing and deploying systems at scale . It also goes without saying that I had an opportunity to add a lot of technologies to my belt ranging from Golang, CircleCI, Kubernetes, Docker, Bash scripting, Python scripting and Software Engineering tools such as Git, Github, JIRA, Confluence etc. 
+
+I love writing about and elucidating Machine Learning and Deep learning concepts and code, it sort of acts as a mental note to myself and as a result I blog regularly @ https://ashwinrachha.github.io/blogpost/ and https://medium.com/@ashwin_rachha/ . I am a Kaggle Notebooks experts and enjoy writing code related to Data Science, NLP and CV competitions. Please checkout my kaggle profile @ https://www.kaggle.com/ashwinrachha1. Alternatively I love solving Data Structures and Algorithms related problems and frequenty blog about them. Checkout my Leetcode profile @ https://leetcode.com/ashwin_rachha/
+
+I am open for Full time opportunities in Machine Learning and or Software Development starting in the summer of 2023. Please feel free to reach out to me regarding any opportunity or for collaborations or just for the sake of reaching out :D.
+
+
+Experience:
+
+
+ExperienceExperience
+
+Virginia Tech Department of Computer Science logo
+Virginia Tech Department of Computer ScienceVirginia Tech Department of Computer Science
+Full-time · 10 mosFull-time · 10 mos
+Graduate Teaching Assistant - Software EngineeringGraduate Teaching Assistant - Software Engineering
+Jan 2023 - May 2023 · 5 mosJan 2023 - May 2023 · 5 mos
+Blacksburg, Virginia, United States · On-siteBlacksburg, Virginia, United States · On-site
+Graduate Teaching Assistant for the Course CS5704 - Software Engineering.
+
+Responsibilities:
+
+Assisted students with assignments related to Java and Kotlin, providing guidance and support to ensure successful completion.
+Explained complex software engineering concepts, including design patterns, through clear and concise explanations, fostering student understanding and application.
+Conducted grading of assignments, ensuring fairness and accuracy in evaluating student work based on established rubrics and guidelines.
+Actively participated in brainstorming sessions, collaborating with course instructors to develop engaging discussions and assignments that enhanced student learning experience.
+Offered one-on-one consultations to address students' questions and concerns, providing personalized assistance to aid in their academic success.
+Maintained effective communication with students, promptly responding to inquiries and providing timely feedback to facilitate their learning process.
+✨ Achievements:
+
+Received positive feedback from students for exceptional teaching skills, resulting in improved course evaluations and overall student satisfaction.
+Collaborated with faculty members to create and implement innovative teaching strategies, incorporating real-world examples and hands-on activities to enhance student engagement and comprehension.
+Developed additional resources, such as coding tutorials and study guides, to supplement course materials and further support student learning.
+
+💡 Technical Skills:
+
+Programming Languages: Java, Kotlin.
+Tools: Github, Gitlab.Graduate Teaching Assistant for the Course CS5704 - Software Engineering. Responsibilities: Assisted students with assignments related to Java and Kotlin, providing guidance and support to ensure successful completion. Explained complex software engineering concepts, including design patterns, through clear and concise explanations, fostering student understanding and application. Conducted grading of assignments, ensuring fairness and accuracy in evaluating student work based on established rubrics and guidelines. Actively participated in brainstorming sessions, collaborating with course instructors to develop engaging discussions and assignments that enhanced student learning experience. Offered one-on-one consultations to address students' questions and concerns, providing personalized assistance to aid in their academic success. Maintained effective communication with students, promptly responding to inquiries and providing timely feedback to facilitate their learning process. ✨ Achievements: Received positive feedback from students for exceptional teaching skills, resulting in improved course evaluations and overall student satisfaction. Collaborated with faculty members to create and implement innovative teaching strategies, incorporating real-world examples and hands-on activities to enhance student engagement and comprehension. Developed additional resources, such as coding tutorials and study guides, to supplement course materials and further support student learning. 💡 Technical Skills: Programming Languages: Java, Kotlin. Tools: Github, Gitlab.
+Skills: Kotlin · Algorithms · Continuous Integration and Continuous Delivery (CI/CD) · Software Development · JavaSkills: Kotlin · Algorithms · Continuous Integration and Continuous Delivery (CI/CD) · Software Development · Java
+Graduate Teaching Assistant - Introduction to Data Analytics and VisualizationGraduate Teaching Assistant - Introduction to Data Analytics and Visualization
+Aug 2022 - Jan 2023 · 6 mosAug 2022 - Jan 2023 · 6 mos
+Responsibilities:
+
+Assisted students in understanding and applying data science and machine learning concepts, including regression, classification, clustering, statistics, and natural language processing.
+Designed assignments that challenged students to apply their knowledge and skills in real-world scenarios, fostering critical thinking and problem-solving abilities.
+Graded assignments and provided constructive feedback to help students improve their understanding and implementation of data analytics and visualization techniques.
+Conducted weekly office hours, offering personalized guidance and clarification on complex topics related to machine learning and data science.
+Collaborated with course instructors to brainstorm and develop engaging discussions and activities that enhanced students' comprehension and practical skills in data analytics and visualization.
+✨ Achievements:
+
+Recognized for exceptional teaching skills and ability to simplify complex concepts, resulting in positive feedback from students and improved course evaluations.
+Contributed to the development of a comprehensive curriculum that integrated cutting-edge techniques and tools in data analytics and visualization, preparing students for real-world applications.
+Led workshops on machine learning algorithms and data analysis techniques, providing students with hands-on experience in utilizing popular libraries and software tools.
+
+
+💡 Technical Skills:
+
+Programming Languages: Python, R
+Data Analytics Tools: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+Data Visualization: Tableau, Matplotlib, Seaborn
+Machine Learning Concepts: Regression, Classification, Clustering, Dimensionality Reduction, Natural Language Processing, Deep Learning
+Statistical Analysis: Hypothesis Testing, Descriptive Statistics, Probability Distributions Teaching Assistant for the course CS3654 - Introduction to Data Analytics and Visualization.Responsibilities: Assisted students in understanding and applying data science and machine learning concepts, including regression, classification, clustering, statistics, and natural language processing. Designed assignments that challenged students to apply their knowledge and skills in real-world scenarios, fostering critical thinking and problem-solving abilities. Graded assignments and provided constructive feedback to help students improve their understanding and implementation of data analytics and visualization techniques. Conducted weekly office hours, offering personalized guidance and clarification on complex topics related to machine learning and data science. Collaborated with course instructors to brainstorm and develop engaging discussions and activities that enhanced students' comprehension and practical skills in data analytics and visualization. ✨ Achievements: Recognized for exceptional teaching skills and ability to simplify complex concepts, resulting in positive feedback from students and improved course evaluations. Contributed to the development of a comprehensive curriculum that integrated cutting-edge techniques and tools in data analytics and visualization, preparing students for real-world applications. Led workshops on machine learning algorithms and data analysis techniques, providing students with hands-on experience in utilizing popular libraries and software tools. 💡 Technical Skills: Programming Languages: Python, R Data Analytics Tools: Pandas, NumPy, Scikit-learn, TensorFlow, Keras Data Visualization: Tableau, Matplotlib, Seaborn Machine Learning Concepts: Regression, Classification, Clustering, Dimensionality Reduction, Natural Language Processing, Deep Learning Statistical Analysis: Hypothesis Testing, Descriptive Statistics, Probability Distributions Teaching Assistant for the course CS3654 - Introduction to Data Analytics and Visualization.
+Skills: Python · Deep Learning · Artificial Intelligence (AI) · Pandas (Software) · Natural Language Processing (NLP)
+
+
+
+
+Machine Learning InternMachine Learning Intern
+Outreach · Full-timeOutreach · Full-time
+Jun 2022 - Aug 2022 · 3 mosJun 2022 - Aug 2022 · 3 mos
+Seattle, Washington, United StatesSeattle, Washington, United States
+● Responsible for developing a template engine project to help Data Scientists and Machine Learning Engineers at Outreach to use templates to deploy any NLP model online inorder for them to avoid writing redundant boiler plate code.
+
+● Delivered an Online Inference Solution with a gRPC based Microservice in Golang serving NLP based models viz. BERT, ROBERTA and DISTILBERT for topic detection, question detection, action analysis and sentiment analysis.
+
+● Wrote Python pipelines for ingesting data, preprocessing, tokenization, prediction and postprocessing of text data.
+
+● Wrote Bash scripts to instantiate NLP model binaries in the ONNX format on the NVIDIA Triton Inference Server and packaged the inference solution as a docker image.
+
+● Wrote a Go based microservice to be used to communicate with the inference server via gRPC requests and responses. Dockerized the microservice solution which would be later used to communicate with the inference service.
+
+● Wrote tests for the application service as well as the inference service via CircleCI configuration files.
+
+● Deployed the application online via Kubernetes manifests on Outreach Staging Environment.
+
+● Reduced Data Scientist efficiency time from 3-4 days to 2 Hours.● Responsible for developing a template engine project to help Data Scientists and Machine Learning Engineers at Outreach to use templates to deploy any NLP model online inorder for them to avoid writing redundant boiler plate code. ● Delivered an Online Inference Solution with a gRPC based Microservice in Golang serving NLP based models viz. BERT, ROBERTA and DISTILBERT for topic detection, question detection, action analysis and sentiment analysis. ● Wrote Python pipelines for ingesting data, preprocessing, tokenization, prediction and postprocessing of text data. ● Wrote Bash scripts to instantiate NLP model binaries in the ONNX format on the NVIDIA Triton Inference Server and packaged the inference solution as a docker image. ● Wrote a Go based microservice to be used to communicate with the inference server via gRPC requests and responses. Dockerized the microservice solution which would be later used to communicate with the inference service. ● Wrote tests for the application service as well as the inference service via CircleCI configuration files. ● Deployed the application online via Kubernetes manifests on Outreach Staging Environment. ● Reduced Data Scientist efficiency time from 3-4 days to 2 Hours.
+Skills: Data Engineering · Google Cloud Platform (GCP) · Algorithms · Git · Backend Engineering · Microservices · Online Inference · Docker · Kubernetes · CircleCI · Continuous Integration and Continuous Delivery (CI/CD) · Software Development · MLOps · Go (Programming Language) · Python (Programming Language) · Machine Learning · Deep Learning · Natural Language Processing (NLP)
+
+
+
+
+Software EngineerSoftware Engineer
+Mindbowser Inc · Full-timeMindbowser Inc · Full-time
+Dec 2019 - Feb 2021 · 1 yr 3 mosDec 2019 - Feb 2021 · 1 yr 3 mos
+Pune, Maharashtra, IndiaPune, Maharashtra, India
+● Responsible for implementing a Facial Expression Recognition (FER) application.
+
+● Performed Exploratory Data Analysis on the underlying data - (FER 2013 dataset) and tested classical Machine Learning models viz. Logistic Regression, Support Vector Machine as a baseline classifier.
+
+● Implemented a Proof of Concept Convolutional Neural Network VGG-19 transfer learning model as the final classifier in Pytorch achieving an accuracy of 73% on the validation set.
+
+● Integrated the application with a MongoDB database to store meeting metadata (timestamps, faces detected, expressions classified etc) and respective images in a GridFS format.
+
+● Wrote a GUI script to translate the POC into a desktop application using Python Tkinter.
+
+● Alternatively wrote a Flask application to build a web application on the underlying model and dockerized the application.
+
+● Packaged the code in a python based executable which could be instantiated with a button click on the desktop as an application.
+
+● Owned the application from design, development to production.
+
+● The project is in beta testing at Volkswagen and Bajaj India.● Responsible for implementing a Facial Expression Recognition (FER) application. ● Performed Exploratory Data Analysis on the underlying data - (FER 2013 dataset) and tested classical Machine Learning models viz. Logistic Regression, Support Vector Machine as a baseline classifier. ● Implemented a Proof of Concept Convolutional Neural Network VGG-19 transfer learning model as the final classifier in Pytorch achieving an accuracy of 73% on the validation set. ● Integrated the application with a MongoDB database to store meeting metadata (timestamps, faces detected, expressions classified etc) and respective images in a GridFS format. ● Wrote a GUI script to translate the POC into a desktop application using Python Tkinter. ● Alternatively wrote a Flask application to build a web application on the underlying model and dockerized the application. ● Packaged the code in a python based executable which could be instantiated with a button click on the desktop as an application. ● Owned the application from design, development to production. ● The project is in beta testing at Volkswagen and Bajaj India.
+Skills: Flask · Graphical User Interface (GUI) · Tkinter · OpenCV · MongoDB · Docker · Python (Programming Language) · Deep Learning · PyTorch · Keras · Scikit-Learn
+
+
+
+EducationEducation
+Virginia Tech logo
+Virginia TechVirginia Tech
+Master's degree, Computer ScienceMaster's degree, Computer Science
+Aug 2021 - May 2023Aug 2021 - May 2023
+Grade: 4.0/4.0Grade: 4.0/4.0
+Skills: KotlinSkills: Kotlin
+Pune Institute of Computer Technology logo
+Pune Institute of Computer TechnologyPune Institute of Computer Technology
+Bachelor's degree, Computer EngineeringBachelor's degree, Computer Engineering
+2016 - 20202016 - 2020
+Grade: 8.7 GPAGrade: 8.7 GPA
+Fergusson College logo
+Fergusson CollegeFergusson College
+HSCHSC
+Jun 2014 - Feb 2016Jun 2014 - Feb 2016
+Grade: 83%
+
+
+My Recommendations:
+
+RecommendationsRecommendations
+
+ReceivedReceived
+GivenGiven
+Sandeep Natoo profile picture
+Sandeep NatooSandeep Natoo
+· 1stFirst degree connection
+Machine Learning Engineer at MindbowserMachine Learning Engineer at Mindbowser
+I am fortunate that I came across talent like Ashwin. I had a pleasure working with Ashwin on his internship period. We worked together on one of our emerging machine learning project, i. e. detecting & identifying human facial expressions.
+
+We really thankful for his contribution in developing the deep leaning model. Apart from his data science skills, he was very friendly & helpful with the team.
+
+I wish him good luck for his future.
+Thank you!I am fortunate that I came across talent like Ashwin. I had a pleasure working with Ashwin on his internship period. We worked together on one of our emerging machine learning project, i. e. detecting & identifying human facial expressions. We really thankful for his contribution in developing the deep leaning model. Apart from his data science skills, he was very friendly & helpful with the team. I wish him good luck for his future. Thank you!…see more
+Shubham Yadav profile picture
+Shubham YadavShubham Yadav
+· 1stFirst degree connection
+Development Team Lead at Mindbowser IncDevelopment Team Lead at Mindbowser Inc
+September 23, 2021, Shubham was Ashwin’s mentorSeptember 23, 2021, Shubham was Ashwin’s mentor
+I had the pleasure of working with Ashwin when he interned at Mindbowser Info solutions Pvt. Ltd. He demonstrated great skill in Python, OpenCV and Machine Learning concepts. I am confident in his ability of making big in the industry. He is focused and commited to his work. I wish him well in his endeavors.
+
+My Cover Letter:
+
+Dear Hiring Manager,
+I am a graduate student pursuing my Master of Science in Computer Science (MS Thesis)
+degree from Virginia Tech with a concentration in coursework and thesis in Machine Learning
+and Explainable AI. I am looking for opportunities in the field of Machine Learning with a focus of
+extracting key insights from data and operationalize ML based applications and also delve into
+the flexibility in discipline of work and excitement to jump in new areas of technology. I'm highly
+interested in building software solutions for professionals turning billions of data points into
+meaningful answers.
+My undergraduate and current graduate coursework was analogous to an evolutionary
+computing model - in order to achieve a proficiency in Data Science it was essential to obtain a set
+of skills in a progressive fashion.Through taking courses related to Machine Learning and Data
+Science and doing various competitions on Kaggle and becoming a Kaggle Notebooks expert I
+burrowed myself into the fundamentals of ML and AI. After gaining enough basic knowledge I
+went on to intern Outreach Corporation as a Machine Learning Engineering Intern where I was
+responsible for for developing a template engine project to help Data Scientists and Machine
+Learning Engineers at Outreach to use templates to deploy any NLP model online inorder for
+them to avoid writing redundant boiler plate code. I delivered an Online Inference Solution with a
+gRPC based Microservice in Golang serving NLP based models viz. BERT, ROBERTA and
+DISTILBERT for topic detection, question detection, action analysis and sentiment analysis that
+reduced the online inference deployment time from 6-7 days to simply 2 hours.
+Before that I worked at Mindbowser Inc where I was working on a Facial Expression Recognition
+application based on Deep Transfer Learning that was intended to record customer behaviour
+during meetings/sales pitches for improving CRM by detecting and classifying facial expressions
+into one of the seven fundamental categories of emotions. I also wrote a script to store the
+meeting metadata in a mongoDB database.
+In my graduate coursework I took the courses related to Data Science viz, Data Analytics,
+Introduction To Deep Learning, Natural language Processing Information Storage and
+Extraction and Software Engineering wherin I have worked on and solve various problems in
+DS related to coupled with how they can be implemented and deployed in the industry. In my
+graduate thesis I am working in the domain of Explainable AI in with Dr. Mohammed Seyam of
+Virginia Tech. I Intend to study how the output of Data based models can be explained or
+interpreted to reinforce trust between smallholder farmers and the underlying intelligent systems
+. I have also produced two research papers in the similar field. My love for writing and interest in
+Data Science constantly inspires me to elucidate ML concepts which I compile from time to time
+on Medium and my own Blog.
+In all of the qualities mentioned above and in my Resume and the history in my Cover Letter, I
+believe that my willingness to learn new things and dedication to find a solution is what sets me
+apart from my peers. I love working and collaborating in a team with different diverse opinions
+and have always welcomed constructive criticism. Infact much of the knowledge and experience I
+have, have been the result of listening to the advice of people better than me.I am curious and
+adventurous in my journey to understanding Machine Learning which is what wakes me up in the
+morning with a jolt and I am ready to take the next challenge in my industrial experience with an
+opportunity to work for your esteemed organization for which I shall be utterly grateful.
+Sincerely,
+Ashwin Rachha.
+
+My Resume:
+
+ASHWIN RACHHA
+https://ashwinrachha.github.io/home/ | linkedin.com/in/ashwinrachha | +1-5408248748 | ashwinr@vt.edu | Blog
+EDUCATION:
+Virginia Tech, M.S. in Computer Science, Blacksburg, VA | GPA 4.0/4.0 August 2021 - August 2023
+PICT, B.E. in Computer Science, Pune, India | GPA 8.70/10.00 July 2016 - November 2020
+SKILLS:
+Programming Languages and Databases : Python, Go, Java, MySQL, Sqlite, MongoDB.
+Frameworks: Github, Docker, Kubernetes, CircleCI, Spark, Mlflow, Pytorch, Tensorflow, Numpy, Pandas, LLMs, Langchain.
+Cloud and Web Development : AWS, GCP, HuggingFace, Replit, Jupyter, HTML, FastAPI, Flask, CSS, React, Streamlit, Gradio.
+EXPERIENCE:
+Outreach, Seattle , Washington | Machine Learning Engineering Intern (ML Platform Team) May 2022 – August 2022
+● Delivered an Online Inference Solution, templatized for command line usage saving Data Scientist’s time (3-4 days to 30 minutes)
+for serving NLP based models viz. BERT, ROBERTA and DISTILBERT for topic detection, question detection, action analysis and
+sentiment analysis. End product resulted in a deployed application online via Kubernetes manifests on Outreach Staging Environment.
+● Wrote Pyspark pipelines for ingesting data, preprocessing, tokenization, prediction and postprocessing of text data.
+● Wrote Python scripts to instantiate NLP model binaries in the ONNX format on the NVIDIA Triton Inference Server and
+alternatively a Python and Go based microservice packaged in a Dockerfile customizable automatically through cli by Data Scientists.
+● Wrote tests for the application service as well as the inference service via CircleCI configuration files.
+UNAR Labs , Portland, Maine | Machine Learning Engineer June 2023 – Present
+● Responsible for writing a new backend for UNAR Labs empowering multisensory information access for visually impaired.
+● Architected and optimized pipelines for data preprocessing, model training, and inference, leveraging frameworks such as
+OpenCV, PyTorch, Transformers, FastAPI, Distributed Servers Docker, GCP, HuggingFace - full stack data science.
+Mindbowser Inc, Pune , India | Machine Learning Intern December 19 – May 2020
+● Implemented a Facial Expression recognition application to detect and classify expressions during an ongoing meeting for CRM.
+● Trained a Convolutional Neural Network VGG-19 transfer learning model as the final classifier in Pytorch achieving an accuracy of
+73% on the validation set. Integrated the application with a MongoDB database storing metadata and images in GridFS format.
+● Packaged the code in a python based executable which could be instantiated with a button click on the desktop as an application.
+● The project is in beta testing at Volkswagen and Bajaj India.
+Virginia Tech, Blacksburg , Virginia | Graduate Teaching Assistant July 2022 - May 2023
+● Graduate Teaching Assistant for Software Engineering and Data Analytics. Assisted students, explained concepts, conducted grading,
+collaborated on course development, and recognized for teaching skills. Proficient in Java, Kotlin, Python, R, data analytics tools,
+visualization, ML concepts, and software engineering.
+PROJECTS:
+Code Explainer. [Python, Pytorch, Transformers, Huggingface, Gradio] LIVE WEBSITE CODE
+● A transformer based Natural Language Explanation project trained using LLMs(Large Language Models - CodeT5) which converts
+any given python code and generates explanations for it like ChatGPT. Fine tuned using Pytorch and deployed on Huggingface spaces.
+Video to Mp3 Converter Distributed System. [Python, Kubernetes, Docker, Flask, MySQL, RabbitMQ, MongoDB] CODE
+● Built an authenticated service for uploading, downloading and converting media files using microservices architecture facilitated by
+Pika and RabbitMQ. The application relies on Flask, PyMongo and GridFS to handle interactions with MongoDB.
+PUBLICATIONS:
+Explainable AI in Education : Current Trends, Challenges and Opportunities | (IEEE SouthEastCon ) | PAPER April 2023
+● Published a paper on the current state-of-the-art in XAI approaches for education, highlighting their distinctive stipulations and
+addressing the gaps in existing research. Presented an algorithmic, non-algorithmic and design choice based framework for XAI.
+ACHIEVEMENTS:
+Kaggle Expert and Blogging | Kaggle | Medium Blogging Since November 2020
+● Achieved the designation of kaggle expert (top 1%) in notebooks category by contributing code in data science competitions.
+
+
+### Education
+
+- **How did you fare in high school mathematics, physical sciences and computing? Which were your strengths and which most enjoyable? How did you rank, competitively, in these subjects?**
+    - Back when I was growing up in India, from class 1st to class 6th I was not that great in Mathematics. In class 6th I was almost going to fail in the class. It was at that time that I was sent to a more competitive school where students were hungry and passionate about learning new concepts and excel at school. That kind of competitive spirit and eagerness to learn gave them and along with them, me, excitement about learning new concepts. So from class 6th to class 12th I fared excellent in high school mathematics and physics. I was not yet introduced to computing in my High School it was not until I started my bachelors degree did I get to delve my hands into Computers. I had also secured a top 2000 position in my State Level aptitude examination which tested Physics, Mathematics and Chemistry skills in High School i.e class 12th (right before university admissions)
+- **What sort of high school student were you? What would your high school peers remember you for, if we asked them?**
+    - Because I was shifting schools a lot, I had a lot of changes in my personality throughout my schooling. In the later years of my high school I was a pretty introvert yet welcoming person. Going through a personal skin tragedy myself, a big highlight about my personality was being empathetic about someone else’s potential reservations or inhibitions and trying to comfort them in my own way. So I became a very good listener and bonded with people whenever they needed to be heard or needed to listen to something inspiration. I was always throwing inspirational quotes and stuff to say at them, which I would like to believe made them feed slightly better about themselves, if not entirely.
+- **In languages and the arts at high school, what were your strongest subjects and how did you rank in those among your school peers?**
+    - I was fanatic about English Literature and loved reading classics and writing some poetry of my own in my high school. I was a big fan of William Wordsworth, Oscar Wilde, William Blake, Lord Byron and also a big short story writer’s fan ranging from Anton Chekhov to Leo Tolstoy to Guy de Maupassant. I believed because I was an introvert and could not open myself up to the the world, I can connect very well with the world of literature and hence put a lot of focus over there. Some of my early works can be found on this website https://ashwinrachha.wordpress.com/ .
+    
+    **********************************************************************************************************************************************************************PS . I had written that blog when I was 15 so a lot of time has passed since then. My writing has surely matured.********************************************************************************************************************************************************************** 
+    
+- **Please outline some high school achievements considered exceptional by peers and staff members.**
+    - I had won an inter-school poetry competition which was quite a prestigious achievement for me. The competition was held between prestigious schools from all over the state and I had won the first prize for my poem “Umbra” which I had written myself which talked about racism in the orient. It was the first time when I truly felt important as being lauded by staff and peers meant quite a lot as initially nobody had any idea about my writings and my passion for writing.
+- **Which degree and university did you choose, and why?**
+    - I chose to study Computer Science during university. I was interested in AI and Machine learning right from that time. My interest in computer science and artificial intelligence sprung from a number of sources. My original interest was incited by a novel innovation in chess, IBM’s deep blue, a chess engine that defeated the world champion of chess. The fact that machines could be automated to not only take decisions like a human being
+    but to dare to go beyond the extent of the ordinary norms of the generational technology captivated me. I found having a Bachelor’s degree in Computer Science indispensable for my future aspirations and hence took admission at the Pune Institute of Computer Technology. Pune Institute of Computer Technology is one of the most renowned colleges in my hometown i.e Pune.
+    - After getting comprehensive experience with working in the intersection of Software Development, Machine Learning Engineering and Data Science Development, I found having a Master’s degree indispensable for my future growth. I was always interested in research and found out that Virginia Tech offered some of the best courses and research tracks in the country and I applied to the university. I was one of the fortunate 50 something people to get an admit and I started my educational experience here in the US. My thesis right now is in Explainable Artificial Intelligence in Education and I am loving every aspect of my graduate education here at Virginia Tech.
+- **What did you enjoy most about your time at university?**
+    - I thoroughly enjoyed the collaborative and hands-on learning environment at Virginia Tech. The coursework was challenging, but working on group projects and applying what I learned to real-world projects allowed me to deepen my understanding of computer science. I also appreciated the support from my professors and peers, and the opportunities to engage in cutting-edge research. There was also an inclusive environment for international students at Virginia Tech which I was a part of so it did not seem like I am not a part of this, it very much felt like home.
+- **Which university courses did you perform best at? How did you rank in your degree?**
+    - I performed very well in NLP based courses in my University which were Natural Language Processing and Information Storage and Retrieval. I got an A in both the subjects and our team also got the best project prize for the project “Virginia Tech Search Engine” in which we had employed a search engine on Virginia Tech pages using an Inverted Index data structure.
+- **Outside of class, what were your interests and where did you spend your time?**
+    - I spent most of my free time playing chess. I am very much passionate about the game and I although I do not have a FIDE rating my unofficial chess rating is around 2000 which is almost equivalent to that of a National Master. I love playing small blitz (3 min) games online with opponents and study the intricacies of the game. I also follow chess championships and study players (Ofcourse my all time favorites being Magnus Carlsen and Vishy Anand)
+- **What did you achieve at university that you consider exceptional?**
+    - I recently got my Paper “Explainable Artificial Intelligence in Education : Current Trends, Challenges and Opportunities” in IEEE SouthEastCon a conference where leading researchers are going to present their work in a variety of fields related to Computer Science in Orlando Florida in April. After an Intensive 1.5 of work in the field I was able to publish and present a framework related to explainability for black box models deployed in the field of CS education. This took a lot of time and patience on my behalf.
+    - I would also like to point out another achievement that I would like say is exceptional (personally). During the first half of my first semester it was exceptionally difficult to make connections and find jobs in this country. Because of this I had a mental health situation that I am sure most of us have suffered some or the other time. Upon introspection I found out there are some flaws in me that need to be addressed i.e connecting with people, being personalble, presenting myself and my skills to the world (thats why I started blogging : https://medium.com/@ashwin_rachha    and https://ashwinrachha.github.io/blogpost/) and I finally got a very nice opportunity to intern at Outreach Corporation in Seattle as a Machine Learning Engineer.
+
+### **Career development**
+
+- **Please describe any experience as a professional software engineer, working on commercial products.**
+    - During my time at Outreach, I had the opportunity to work as a Machine Learning Engineering Intern, where I gained hands-on experience in developing online inference solutions. I was part of a dynamic team i.e the Data Science Team and was responsible for delivering solutions that could serve NLP based models for various tasks like topic detection, question detection, sentiment analysis, and action analysis. I utilized my skills in programming languages like Python and bash scripts to instantiate NLP models in their ONNX flavor on the NVIDIA Triton Inference server.  I was also involved in writing Python pipelines for data ingestion, preprocessing, tokenization, prediction and postprocessing of text data. Additionally, I had to learn Go for this internship as most of Outreach’s codebase is in Golang and I wrote a Golang microservice communicate with the models instantiated on the server using docker compose. I also had the experience of working with tools and frameworks like Docker, Kubernetes, CircleCI, Pytorch, and Tensorflow, among others. I was proud to have deployed the application online via Kubernetes manifests and was responsible for writing tests for the application and inference services. This was my first commercial experience with developing container based technology and using container orchestration platform. I also templatized the project to be generically applied by data scientists, reducing the time for development to deployment from several days to just a couple of hours. Overall, working at Outreach was a great learning experience for me and provided me with a wealth of knowledge in the field of machine learning and software development
+- **Please describe any experience as a software engineer working on internal company projects rather than commercial products.**
+    - I had this kind of opportunity to work on an internal project at Mindbowser Inc. During my time at Mindbowser, I had the opportunity to work as a Software Engineering Intern in the field of Machine Learning. I was able to gain hands-on experience in developing a Facial Expression Recognition application that aimed to detect and classify expressions during meetings. This project was a challenging but rewarding experience as it allowed me to learn and apply various cutting-edge technologies. Since it was a POC based project and the company did not have any other data scientist to work with me, I had to make a lot of decisions and that taught me the decisions you take now may severely affect you in the future. I had the chance to train a proof of concept Convolutional Neural Network model using transfer learning, and I was able to achieve an accuracy of 73% on the validation set. This project involved using PyTorch and MongoDB, and I was able to package the code in a Python based executable. I also had the opportunity to integrate the code with a Flask application and Docker, making it easier to deploy the application as a web application. Overall, my experience at Mindbowser was a great opportunity for me to grow both personally and professionally. I was able to work on a real-life project and develop my skills in various aspects of software development, including machine learning, database integration, and application deployment. This experience has given me the confidence and ability to tackle complex projects in the future. But that being said there are many things I could have done differently. Now that I have gained some comprehensive experience in the field of ML I can say for sure that I could have made tremendous changes to the way I did things back then in 2019.
+- **Describe your skill in your preferred development language, and how you attained it.**
+    - I have given a lot of time to hone my Deep Learning skills particularly working in the development of Language Models in Natural Language Processing. Associating my previous As per my resume, I have hands-on experience in NLP (Natural Language Processing) with Python. My work as a Machine Learning Engineering Intern at [Outreach.io](http://outreach.io/), Seattle, Washington involved delivering an online inference solution with NLP based models (BERT, ROBERTA, and DISTILBERT) for various NLP tasks like topic detection, question detection, action analysis, and sentiment analysis. Additionally, I wrote Python pipelines for data ingestion, preprocessing, tokenization, prediction and postprocessing of text data.
+    - I also have written a Paper on “Detecting Insincere Questions with Text - A Transfer Learning Approach” (https://arxiv.org/abs/2012.07587) Where I compare the performance of various transformers on detecting Insincere Questions on content based websites such as Quora, StackOverflow, Reddit etc. I have also worked on a NLP-based web application "HemingWay" (https://share.streamlit.io/rachhaashwin/one_stop_nlp/main)  that summarizes, analyzes, and paraphrases text. These projects demonstrate my understanding and knowledge of the NLP domain.
+    - My experience as a Software Engineering Intern (Machine Learning) at Mindbowser, Pune, India, involved implementing a facial expression recognition application that used a proof-of-concept Convolutional Neural Network (VGG-19) trained using Pytorch. These projects demonstrate my proficiency in using Python for NLP and Deep Learning tasks.
+    
+- **What are your strengths as a software engineer?**
+    - I have not had an extensive experience as a Software Developer so I might take a hit on the points for my technical jargon over here but I would say time management and organizing myself and my tasks are the biggest strengths of me as a Software Engineer. Having had minor and major failures in many projects in my past I can say I am definitely a better planner now than I ever was regarding the requirements and design of systems I want to work on.
+- **What experience do you have with Linux system administration? What is the largest group of servers you have helped operate?**
+    - I do not have a lot of direct interaction with Linux system administration. However, I have used Bash scripts in my work as a Machine Learning Engineering Intern at [Outreach](http://outreach.io/) and have also used Docker and Kubernetes in deploying my applications. I am also extensively familiar with all linux commands and working on linux operating systems throughout my bachelors and my internships.
+- **What experience do you have with site reliability engineering, keeping production services online and available?**
+    - I don't have any direct experience with site reliability engineering but I have experience with deploying applications using Kubernetes which is an open-source system for automating deployment, scaling, and management of containerized applications. During my internship at Outreach, I deployed the application online using Kubernetes manifests on the Outreach Staging Environment. This experience showcases my understanding of containerization and deployment which are key components of site reliability engineering. Additionally, I have experience with CircleCI, which is a continuous integration and delivery platform, and I wrote tests for the application and inference services, demonstrating my knowledge of testing and ensuring the stability of applications.
+
+### **Experience**
+
+- **Describe your level of experience in Python, and how you have attained it.**
+    - I have a solid foundation in Python programming, having worked with it for a number of years. During that time, I've gained a deep understanding of its core concepts, such as data structures, algorithms, and OOP. I've also had the opportunity to use it in various projects, both as an individual contributor and as part of a team.
+    - One of the key ways I've honed my skills in Python is through hands-on experience. I've built and maintained a number of software applications and scripts, which have allowed me to gain practical knowledge of the language. For example, I've developed applications for automating various tasks, data processing, and web scraping. This has given me a good understanding of how to implement different features and how to optimize performance.
+    - In addition to practical experience, I've also made a point of staying up-to-date with the latest developments in the Python community. I've attended meetups, read online tutorials and blogs, and participated in online forums. This has allowed me to learn from others, share my own experiences, and stay ahead of the curve when it comes to new libraries, tools, and best practices.
+    
+    Overall, I believe that my combination of hands-on experience, continuous learning, and deep understanding of the language make me a skilled and experienced Python programmer.
+    
+- **When did you start working on Linux? Describe your level of experience as a user & developer on Linux.**
+    - I started working on Linux right from my undergraduate degree. Since my childhood I only knew about the Windows operating system and it wasnt until I came to University I realized the importance of Open Source and Open Source Operating Systems and what beauty Linux was. We were introduced to the Linux operating system and got acquainted with all the basic linux commands which I use till now.
+- **Describe your experience with container technologies (Docker, LXD, Kubernetes, etc)**
+    - Throughout my career, I have had extensive experience working with container technologies, specifically Docker and Kubernetes. I have used Docker for packaging and deploying applications as containers, allowing for efficient and consistent deployment across various environments. I have also worked with Kubernetes, a leading open-source platform for automating the deployment, scaling, and management of containerized applications. I have used Kubernetes to manage and orchestrate containers, ensuring the reliability and availability of my applications in production environments. I have attained this experience through hands-on projects and continuously keeping up to date with the latest developments in this field
+- **How do you prefer to drive documentation for your products?**
+    - I prefer to drive documentation for my products in a way that is organized and easily accessible. This typically involves creating a clear outline or table of contents that outlines the various components and features of the product, and then writing detailed descriptions for each. I also like to include diagrams and illustrations to help explain complex concepts, and to make the documentation visually appealing. Additionally, I believe in regularly updating and maintaining the documentation to ensure that it stays current and relevant. Overall, my goal is to create documentation that is comprehensive, user-friendly, and useful for all stakeholders, including developers, end users, and other stakeholders.
+- **How do you think about quality in your products?**
+    - When it comes to my products, quality is a top priority. I believe that a high-quality product not only meets customer expectations, but it also reflects positively on my skills as a professional. I approach quality from multiple angles, including careful code development, thorough testing, and regular evaluations of customer feedback. I continuously strive to improve my processes and techniques to ensure that I am delivering the best possible experience for my users. Ultimately, I view quality as an ongoing journey, and I am committed to continuously learning and improving in this area.
+- **Describe a case where it was very difficult to test code you were writing, but you found a reliable way to do it.**
+    - I recall a time when I was working on The Facial Expression Recognition project where testing the code was extremely challenging because Machine Learning testing or more precisely Computer Vision Testing is significantly different than Software Testing. It was a demanding task as the code was interdependent on multiple systems and any small change would result in unexpected outcomes. The dataset that the model was trained on was also biased and there was no other additional data stores to get the relevant dataset from. So I ended up creating a custom dataset for myself and wrote unit tests for the prediction on my custom dataset for Facial Recognition i.e detection as well as Expression Recognition. I didn't give up and went on to find a reliable way to test the code. I started by breaking down the code into smaller, manageable parts and then created a testing plan for each part. I also made use of automated testing tools, which allowed me to test the code efficiently and quickly. Moreover, I worked closely with my team and sought feedback from them, which helped me to identify the areas that needed more attention. In the end, my persistence and determination paid off as I was able to develop a robust testing mechanism that ensured the code was reliable and of high quality.
+- **What would you like to achieve in career development and skills development?**
+    - In my career journey, I aim to constantly strive for growth and improvement. In the future I want to be a leader in MLOPs i.e Operationalizing Machine Learning Models and I want to see myself as a Tech lead or a Product lead or an entrepreneur who is managing a revolutionary idea. I want to challenge myself by taking on new and diverse projects that will broaden my skill set and deepen my knowledge in the field. Additionally, I hope to take on leadership roles and mentor others, sharing the lessons I have learned and helping others to achieve their own career development goals. Ultimately, my ultimate career goal is to make a positive impact in my field and leave a lasting legacy.
+
+### **Context**
+
+- **Are you involved in open source software?**
+    - No I have not ever contributed to open source software.
+- **Describe any significant contributions to open source (with links where possible), if any**
+    - I do not have contribution to open source software but I do routinely write about Technical blogs. Two of my Blog Lists can be found below:
+    
+    [Ashwin Rachha - Medium](https://medium.com/@ashwin_rachha)
+    
+    [blogpost](https://ashwinrachha.github.io/blogpost/)
+    
+- **What do you think are the key ingredients of a successful open source project?**
+    - From my perspective, the key ingredients of a successful open source project include a strong and dedicated community of contributors, clear and effective communication and collaboration among team members, a well-defined vision and set of goals, high-quality and well-documented code, and a responsive and flexible development process that incorporates feedback and contributions from the wider community. Additionally, it is important for the project to have a robust system for issue tracking, testing and continuous integration, and for project leadership to make informed decisions about prioritizing new features and bug fixes. In order to foster a thriving community and build trust among contributors and users, it is also important for the project to have transparent governance and decision-making processes, and for the project leaders to prioritize inclusivity and diversity.
+- **Why do you most want to work for Canonical?**
+    - Canonical is a leading technology company that provides open-source software solutions, with a focus on serving the needs of its global clients. The company is known for its innovative approach to software development, and for its commitment to quality, reliability, and security.
+    - The most driving reason for me to work for Canonical is opportunity to work on cutting-edge technologies and to be part of a team of experts in the field. Additionally, Canonical's commitment to open-source development can be attractive to those who value collaboration, transparency, and community involvement. I see a lot of MLOps based blogs on the Canonical page and the mission of Canonical to maintain and work on MLOps based tools such as Kubeflow is something that exictes me very much. Furthermore, working for a successful and established company in the technology sector can provide opportunities for career growth and skill development.
+- **Which other companies are building the sort of products you would like to work on?**
+    - There are many companies that are working on the products I would love to work on but they are on a bit of a sidetrack. One such company is OpenAI which just released their CHATGPT model. Although the model performs exceptionally well, the model serving is somewhat not that great and the model is mostly on downtown as they had not expected so many users to interact with the system. I would have loved to work on the infrastructure team of deploying the ChatGPT model.
+- **Which companies have the most interesting approach to devops and site reliability engineering?**
+    - I do not have much information about different companies employing interesting devops principles but here is what I could gather. Based of my own research, some companies that are often mentioned for their innovative approach to devops and SRE include:
+    - Google
+    - Amazon Web Services (AWS)
+    - Netflix
+    - Etsy
+    - Facebook
+    - Microsoft
+    - Airbnb
+    - Dropbox
+    - Uber
+    
+    These companies have implemented unique approaches to devops and SRE, such as adopting principles of chaos engineering, extensive use of automation and data-driven decision making, and prioritizing culture and collaboration between development and operations teams. It's important to research and understand a company's specific approach to devops and SRE before considering joining their team.
+    
+- **What do you think could raise the bar for site reliability engineering, globally?**
+    - 
+    
+    There are several things that could raise the bar for site reliability engineering globally. Some of these include:
+    
+    1. Adoption of modern technologies and practices: The use of cloud computing, containerization, and other modern technologies can help improve the reliability and scalability of systems.
+    2. Collaboration between development and operations teams: Effective collaboration between development and operations teams can ensure that systems are designed, built, and operated in a way that prioritizes reliability.
+    3. Investment in training and development: Organizations should invest in training and development programs for their SRE and devops teams to keep them up-to-date with the latest tools, techniques, and best practices.
+    4. Emphasis on continuous improvement: SRE teams should continuously monitor and assess the performance of their systems and make improvements to ensure that they are delivering the best possible reliability and availability.
+    5. Embracing a culture of reliability: Organizations should promote a culture that values reliability and encourages employees to strive for it in all aspects of their work.
+- **What do you think Canonical needs to improve in its engineering and products?**
+    - Canonical should continuously strive to improve their engineering and products in order to meet the changing needs of their customers, stay ahead of their competition, and remain relevant in the market. Some common areas that the company should focus on improving may include increasing the speed of product development, improving the quality and reliability of products, enhancing user experience, and adopting new technologies and approaches to stay ahead of the curve. To determine specific areas that Canonical may need to improve, I would suggest conducting research and gathering feedback from customers, industry experts, and other stakeholders.
+- **Who do you think are key competitors to Canonical? How do you think Canonical should plan to win that race?**
+    - Red Hat I believe is one big Competitor to Canonical. The three big players are Ubuntu Server (of Canonical), SUSE Linux Enterprise, and Red Hat Enterprise Linux. It's subjective to say that one company is better than the other, as each has its own strengths and weaknesses. However, some people may view Red Hat and SUSE as better than Canonical because they have a strong reputation in the enterprise Linux market and offer comprehensive enterprise-level support and services. To improve, Canonical can focus on expanding its enterprise offerings and services, further developing its cloud and IoT offerings, and continuing to innovate and improve its products to meet the needs of its users and customers. Additionally, it can also focus on expanding its partnerships and collaborations with other companies and organizations to increase its reach and impact in the industry.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
