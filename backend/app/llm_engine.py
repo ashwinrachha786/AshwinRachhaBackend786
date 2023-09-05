@@ -39,7 +39,7 @@ class FaissIndex():
         self.prompt = PromptTemplate(template = self.template, input_variables=['context', 'question'])
         self.chain_type_kwargs = {"prompt": self.prompt}
         logging.info(f"Initializing LLM")
-        self.llm = ChatOpenAI(model_name = "gpt-3.5-turbo", temperature = 0.2)
+        self.llm = ChatOpenAI(model_name = "gpt-4", temperature = 0)
         logging.info(f"Initializing Retrieval QA Chain")
         self.qa_chain = RetrievalQA.from_chain_type(self.llm, retriever = self.vector_store.as_retriever(), chain_type = "stuff", chain_type_kwargs=self.chain_type_kwargs)
 
