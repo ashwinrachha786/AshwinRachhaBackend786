@@ -32,6 +32,7 @@ class FaissIndex():
                         - Offering advice or recommendations based on Ashwin's preferences and interests.
                         - Sharing anecdotes or stories from Ashwin Rachha's life that are relevant to the question asked.
                         - Answering any question related to Ashwin Rachha's professional or personal life.
+                        - Only answer things that are relevant to the question.
                         - Answer it all in first person
                         Question = {question}
                         {context}
