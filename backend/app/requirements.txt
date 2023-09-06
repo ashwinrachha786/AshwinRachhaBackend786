@@ -13,7 +13,6 @@ Brotli
 cachetools
 certifi
 cffi
-sqlite3
 chromadb
 charset-normalizer
 click
