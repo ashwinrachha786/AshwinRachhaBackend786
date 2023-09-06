@@ -12,7 +12,7 @@ from langchain.prompts import PromptTemplate
 from dotenv import load_dotenv
 from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
-from langchain.vectorstores import Chroma
+#from langchain.vectorstores import Chroma
 
 
 load_dotenv()
