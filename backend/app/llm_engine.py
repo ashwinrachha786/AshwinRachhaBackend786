@@ -26,8 +26,8 @@ class FaissIndex():
         logging.info(f"Loading Embedding model: all-mpnet-base-v2")
         #self.embeddings = HuggingFaceEmbeddings(model_name = "all-mpnet-base-v2")
         self.embeddings = OpenAIEmbeddings(model = "text-embedding-ada-002")
-        #self.vector_store = FAISS.load_local("vector_store",self.embeddings)
-        self.vector_store = Chroma(persist_directory="chroma_db", embedding_function=self.embeddings)
+        self.vector_store = FAISS.load_local("vector_store",self.embeddings)
+        #self.vector_store = Chroma(persist_directory="chroma_db", embedding_function=self.embeddings)
         logging.info(f"Loaded Vector Store: {self.COLLECTION_NAME}")
         self.template = """You are an AI assistant tailored for Ashwin Rachha. Your capabilities include:
                         - Providing insights and details about Ashwin Rachha's past experiences and achievements.
