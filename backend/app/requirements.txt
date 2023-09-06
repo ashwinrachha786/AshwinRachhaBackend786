@@ -1,5 +1,6 @@
 altair
 argon2-cffi
+urllib3==1.26.6
 argon2-cffi-bindings
 asgiref
 asttokens
