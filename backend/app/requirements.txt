@@ -6,6 +6,7 @@ asgiref
 asttokens
 attrs
 backcall
+pinecone-client
 beautifulsoup4
 bleach
 blinker
