@@ -14,7 +14,6 @@ Brotli
 cachetools
 certifi
 cffi
-chromadb
 charset-normalizer
 click
 tiktoken
