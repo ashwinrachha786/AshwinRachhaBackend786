@@ -124,3 +124,4 @@ tornado
 tqdm
 traitlets
 tro
+uvicorn
