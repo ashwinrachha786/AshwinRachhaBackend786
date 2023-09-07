@@ -1,9 +1,9 @@
 {
 	"version": 2,
 	"public": false,
-	"builds": [{ "src": "backebend/app/main.py", "use": "@vercel/python" }],
+	"builds": [{ "src": "backend/app/main.py", "use": "@vercel/python" }],
 	"routes": [
-		{ "src": "/", "dest": "backebend/app/main.py" },
-		{ "src": "/quert", "dest": "backebend/app/main.py" }
+		{ "src": "/", "dest": "backend/app/main.py" },
+		{ "src": "/query", "dest": "backend/app/main.py" }
 	]
 }
