@@ -9,14 +9,12 @@ from langchain.vectorstores import FAISS
 from langchain.embeddings import HuggingFaceEmbeddings, SentenceTransformerEmbeddings
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.prompts import PromptTemplate
-from dotenv import load_dotenv
 from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
 #from langchain.vectorstores import Chroma
 from langchain.vectorstores import Pinecone
 import pinecone    
 
-load_dotenv()
 
 import pinecone      
 
